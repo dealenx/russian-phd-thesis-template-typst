@@ -1,7 +1,7 @@
-#let glossary-entries = {(
+#let glossary-entries = (
   (
     key: "typst",
-    short: "Typst", 
+    short: "Typst",
     desc: "Новая система набора текста на основе разметки для науки.",
   ),
-)}
+)
