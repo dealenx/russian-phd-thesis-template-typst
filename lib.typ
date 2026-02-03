@@ -176,7 +176,7 @@
 
   set page(
     numbering: "1", // Установка сквозной нумерации страниц
-    number-align: center + top, // Нумерация страниц сверху, по центру
+    number-align: center + bottom, // Нумерация страниц снизу, по центру
   )
   counter(page).update(1)
 
